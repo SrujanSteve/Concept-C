@@ -1,0 +1,8 @@
+
+main()
+{
+    int i,j,sum;
+    printf("the sum of 2 no.s is :%d,sum");
+    getch();
+    
+}
